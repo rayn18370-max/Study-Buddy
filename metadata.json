@@ -1,0 +1,7 @@
+{
+  "name": "Study Buddy",
+  "description": "An AI-powered study assistant, a product of Social Drive, that converts your handwritten notes, textbooks, and PDF documents into clean structured notes, flashcards, and exam-style questions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
